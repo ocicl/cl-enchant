@@ -4,6 +4,6 @@ Common Lisp bindings for Enchant spell-checker library
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/tlikonen/cl-enchant.git |
-| commit  | e6687d2                                        |
+| commit  | 49a5a8e                                        |
 | systems | enchant                                        |
 |---------+------------------------------------------------|
